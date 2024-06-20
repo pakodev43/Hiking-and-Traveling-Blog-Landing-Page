@@ -74,19 +74,20 @@ body {
     font-family: var(--ff-primary);
 
 
-    p {
-        line-height: 1.75;
-    }
+}
 
-    a {
-        text-decoration: none;
-        transition: all 200ms ease;
-    }
+p {
+    line-height: 1.75;
+}
 
-    li {
-        list-style: none;
-        transition: all 200ms ease;
-    }
+a {
+    text-decoration: none;
+    transition: all 200ms ease;
+}
+
+li {
+    list-style: none;
+    transition: all 200ms ease;
 }
 
 
